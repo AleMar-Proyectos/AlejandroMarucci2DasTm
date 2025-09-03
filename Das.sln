@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36327.8
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TP01", "TP01", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TP Repaso", "TP Repaso", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio01", "Ejercicio01\Ejercicio01.csproj", "{F4F4A8DD-30BA-4F65-99A0-12C154B9D8A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TP01 CRUD", "TP01 CRUD", "{9EB65670-EF6B-470D-94E1-9F9DC538042E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tp01Crud", "Tp01Crud\Tp01Crud.csproj", "{115681F7-AA88-4745-9038-5C2DC097D893}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{F4F4A8DD-30BA-4F65-99A0-12C154B9D8A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4F4A8DD-30BA-4F65-99A0-12C154B9D8A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4F4A8DD-30BA-4F65-99A0-12C154B9D8A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{115681F7-AA88-4745-9038-5C2DC097D893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115681F7-AA88-4745-9038-5C2DC097D893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115681F7-AA88-4745-9038-5C2DC097D893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115681F7-AA88-4745-9038-5C2DC097D893}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F4F4A8DD-30BA-4F65-99A0-12C154B9D8A3} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{115681F7-AA88-4745-9038-5C2DC097D893} = {9EB65670-EF6B-470D-94E1-9F9DC538042E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {43D9BC7A-CAE5-4B66-8B78-B95297A03F19}
