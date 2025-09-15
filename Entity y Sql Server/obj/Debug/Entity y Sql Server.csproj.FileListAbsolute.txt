@@ -1,0 +1,15 @@
+C:\Users\Alejandro\source\repos\Das\Entity y Sql Server\bin\Debug\Entity y Sql Server.exe.config
+C:\Users\Alejandro\source\repos\Das\Entity y Sql Server\bin\Debug\Entity y Sql Server.exe
+C:\Users\Alejandro\source\repos\Das\Entity y Sql Server\bin\Debug\Entity y Sql Server.pdb
+C:\Users\Alejandro\source\repos\Das\Entity y Sql Server\bin\Debug\EntityFramework.dll
+C:\Users\Alejandro\source\repos\Das\Entity y Sql Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alejandro\source\repos\Das\Entity y Sql Server\bin\Debug\EntityFramework.xml
+C:\Users\Alejandro\source\repos\Das\Entity y Sql Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alejandro\source\repos\Das\Entity y Sql Server\obj\Debug\Entity y Sql Server.csproj.AssemblyReference.cache
+C:\Users\Alejandro\source\repos\Das\Entity y Sql Server\obj\Debug\Entity_y_Sql_Server.FrmTabla.resources
+C:\Users\Alejandro\source\repos\Das\Entity y Sql Server\obj\Debug\Entity_y_Sql_Server.Properties.Resources.resources
+C:\Users\Alejandro\source\repos\Das\Entity y Sql Server\obj\Debug\Entity y Sql Server.csproj.GenerateResource.cache
+C:\Users\Alejandro\source\repos\Das\Entity y Sql Server\obj\Debug\Entity y Sql Server.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\Das\Entity y Sql Server\obj\Debug\Entity y.3401B1FB.Up2Date
+C:\Users\Alejandro\source\repos\Das\Entity y Sql Server\obj\Debug\Entity y Sql Server.exe
+C:\Users\Alejandro\source\repos\Das\Entity y Sql Server\obj\Debug\Entity y Sql Server.pdb
